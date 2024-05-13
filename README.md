@@ -6,8 +6,8 @@
 ## III. Jacobian Matrix of SCARA Mechanical Manipulator description and computation.
 
 <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The term Jacobian often represents both the jacobian matrix and determinants, which is defined for the finite number of function with the same number of variables. Here, each row consists of the first partial derivative of the same function, with respect to the variables. The jacobian matrix can be of any form. It may be a square matrix (number of rows and columns are equal) or the rectangular matrix(the number of rows and columns are not equal).</div>
-\
 
+\
 <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Jacobian matrix is a fundamental notion in mathematics, particularly multivariable calculus. Its purpose is to depict the rate at which one set of variables changes in relation to another. In essence, if you have a function that maps from one vector space to another (like a multivariable function), the Jacobian matrix tells you how each output variable changes concerning each input variable.</div>
 
 \
