@@ -57,8 +57,7 @@ The concept of the Jacobian Matrix was first introduced by the mathematician ***
 
 </div>
 
-
-
+\
 <div align="center">
    
 |      *Jacobian Matrix Solutions*   | |
