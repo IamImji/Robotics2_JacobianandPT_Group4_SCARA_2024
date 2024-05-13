@@ -7,3 +7,9 @@
 ## V. Path and Trajectory Planning of SCARA Mechanical Manipulator description and program.
 ## VI. References
 ## VII. Members
+* ###  Cullos, Kristina Crisandra M.
+* ###  Francisco, Jestine Anne A. 
+* ###  Garcia, Mark Jeffereson R.
+* ###  Mirabel, Jan Andrei A.
+* ###  Rayos, Christine Mae C.
+
