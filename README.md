@@ -57,13 +57,18 @@ The concept of the Jacobian Matrix was first introduced by the mathematician ***
 
 </div>
 
-<div align="center">
 
-| *Jacobian Matrix Computaion*     |
-|-----------------------       |
-| [Jacobian-Matrix-Solutions.pdf](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/files/15296741/Jacobian-Matrix-Solutions.pdf) |
+
+<div align="center">
+   
+|      *Jacobian Matrix Solutions*   | |
+| ----------------------- |  ----------------------- |       
+| ![Screenshot 2024-05-13 235158](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/assets/158303837/cd21b2b8-470a-4ad1-b664-e375e110f25a)| ![Screenshot 2024-05-13 235230](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/assets/158303837/81e1c96a-61ce-4f2b-b82b-2cf34b0de52d) 
+
+![Screenshot 2024-05-13 235259](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/assets/158303837/fd3bc477-d3ea-48be-96f8-ad534c3ef53c)
 
 </div>
+
 
 ## IV. Differential of SCARA Mechanical Manipulator description and computation.
 
