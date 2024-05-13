@@ -4,9 +4,11 @@
 ## II. Introduction of the Project
 
 ## III. Jacobian Matrix of SCARA Mechanical Manipulator description and computation.
-### The Jacobian matrix is a fundamental notion in mathematics, particularly multivariable calculus. Its purpose is to depict the rate at which one set of variables changes in relation to another.
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Jacobian matrix is a fundamental notion in mathematics, particularly multivariable calculus. Its purpose is to depict the rate at which one set of variables changes in relation to another. In essence, if you have a function that maps from one vector space to another (like a multivariable function), the Jacobian matrix tells you how each output variable changes concerning each input variable.</div>
 
-### The concept of the Jacobian Matrix was first introduced by the mathematician ***Carl Gustav Jacob Jacobi*** in the 19th century. 
+\
+The concept of the Jacobian Matrix was first introduced by the mathematician ***Carl Gustav Jacob Jacobi*** in the 19th century.
+
 
 <div align="center">
    
@@ -19,7 +21,37 @@
 > [!NOTE]
 > Rows = no. of rows in End Effector Velocity Vector (always 6).
 \
-> Columns = no. of rows in DH Parametric Table. 
+> Columns = no. of rows in DH Parametric Table.
+
+**Methods of Obtaining Jacobian Matrix**
+1. Partial Derivative Method
+2. Propagation Method
+3. Linear Algebra Method
+
+<div align="center">
+   
+| *Linear Algebra Method*     |
+|-----------------------       |
+| ![Screenshot 2024-05-13 222748](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/assets/158303837/93cc65cd-bfe4-4e56-aae9-40cc2b7e9e33) |
+
+</div>
+
+> [!NOTE]
+> R = Rotation Matrix (follow the superscripts and subscripts)
+\
+> d = Position Vectors (follow the superscripts and subscripts)
+\
+> i = which column/joint you are solving at J
+\
+> n = no. of columns/joints of J
+
+<div align="center">
+   
+| *Linear Algebra Method*     |
+|-----------------------       |
+| ![Screenshot 2024-05-13 225544](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/assets/158303837/48e586cd-faf5-44e7-9d35-c8b9ef89a585) |
+
+</div>
 
 ## IV. Differential of SCARA Mechanical Manipulator description and computation.
 
