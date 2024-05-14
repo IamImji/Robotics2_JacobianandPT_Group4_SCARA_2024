@@ -36,7 +36,8 @@ The concept of the Jacobian Matrix was first introduced by the mathematician ***
    
 | *Linear Algebra Method*     |
 |-----------------------       |
-| ![Screenshot 2024-05-13 222748](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/assets/158303837/93cc65cd-bfe4-4e56-aae9-40cc2b7e9e33) |
+|![Screenshot 2024-05-13 225156](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/assets/158303837/597b4d54-78e9-48bf-8ef5-b66c1aed4135) |
+
 
 </div>
 
