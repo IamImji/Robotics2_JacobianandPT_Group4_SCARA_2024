@@ -68,7 +68,7 @@ The concept of the Jacobian Matrix was first introduced by the mathematician ***
 
 </div>
 
-## IV. Differential of SCARA Mechanical Manipulator description and computation.
+## IV. Differential Equation of SCARA Mechanical Manipulator description and computation.
 
 ## V. Path and Trajectory Planning of SCARA Mechanical Manipulator description and program.
 
