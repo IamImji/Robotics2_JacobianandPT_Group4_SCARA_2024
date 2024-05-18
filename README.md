@@ -78,11 +78,13 @@ The concept of the Jacobian Matrix was first introduced by the mathematician ***
 
 <div align="center">
    
-| *Linear Algebra Method*     |
+| *Differential Equation*     |
 |-----------------------       |
 | ![Screenshot 2024-05-18 123033](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/assets/158303837/57267682-de04-46f3-aed9-fe41be9cd636) |
 
 </div>
+
+<div align="center">Here is the computation of Differential Equation of a SCARA Manipulator</div>
 
 ## V. Path and Trajectory Planning of SCARA Mechanical Manipulator description and program.
 
