@@ -76,6 +76,14 @@ The concept of the Jacobian Matrix was first introduced by the mathematician ***
 
 ## IV. Differential Equation of SCARA Mechanical Manipulator description and computation.
 
+<div align="center">
+   
+| *Linear Algebra Method*     |
+|-----------------------       |
+| ![Screenshot 2024-05-18 123033](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/assets/158303837/57267682-de04-46f3-aed9-fe41be9cd636) |
+
+</div>
+
 ## V. Path and Trajectory Planning of SCARA Mechanical Manipulator description and program.
 
 Path and trajectory planning are essential concepts in robotics and control systems.
