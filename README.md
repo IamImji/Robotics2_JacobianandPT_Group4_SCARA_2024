@@ -114,7 +114,7 @@ Path and trajectory planning are essential concepts in robotics and control syst
    
 |      *Path and  Trajectory Pick and Place*   |   *Path and Trajectory Welding*        |
 | ----------------------- |  ----------------------- |       
-|    |   |
+|  ![PandP](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/assets/158303837/a63c4e8c-ec43-4f0d-839f-1f41c2e9ecdb) | ![welding](https://github.com/IamImji/Robotics2_JacobianandPT_Group4_SCARA_2024/assets/158303837/3c114d8d-2a4f-4c50-aa0e-76b0429fd439) |
 
 </div>
 
