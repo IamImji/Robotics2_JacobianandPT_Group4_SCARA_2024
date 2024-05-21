@@ -1,4 +1,5 @@
-# <p align="center">***Robotics2_JacobianandPT_Group4_SCARA_2024***</div>
+#  <p align="center">**Robotics 2: Jacobian Matrix and Path and Trajectory of a**</p>
+# <p align="center">$${\color{red}**SCARA**}‎~~{\color{red}**Manipulator**}$$</p>
 
 ## I. Abstract of the Project
 <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The paper explains the key methods for calculating the Jacobian matrix and designing paths and trajectories for a Selective Compliance Assembly Robot Arm (SCARA) manipulator. The Jacobian matrix is a fundamental concept in robotics that connects joint velocities to end-effector velocities in Cartesian space and provides information on the manipulator's kinematic features. Path and trajectory planning are essential for creating efficient and precise motion sequences that ensure smooth and collision-free movements. By investigating these techniques, this research hopes to improve our understanding and implementation of SCARA robots in industrial automation applications.</div>
