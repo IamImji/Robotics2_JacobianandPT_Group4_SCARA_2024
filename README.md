@@ -109,7 +109,7 @@ Path and trajectory planning are essential concepts in robotics and control syst
 <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robots require both route planning and trajectory planning as essential parts of their motion planning systems in order to navigate through a variety of real-world situations safely and successfully, avoiding collisions and maximizing movement efficiency. These ideas are used in mobile robots, industrial automation, and autonomous vehicles, among various other fields.</div>
 
 ## VII. References
-* https://byjus.com/maths/jacobian/
+* Admin. (2019, December 9). Jacobian Matrix and Determinant (Definition and Formula). BYJUS. https://byjus.com/maths/jacobian/
 * 
 ## VIII. Members
 * ###  Cullos, Kristina Crisandra M.
