@@ -126,7 +126,7 @@ Path and trajectory planning are essential concepts in robotics and control syst
 * Task 2
 * Task 3
 * Task 4 - https://youtu.be/5zxw8IW67yU?si=oYBMBsoTleLAnyBJ
-* Task 5
+* Task 5 - https://youtu.be/baRaOgWt2XM?si=kgcU3lggINRWqCAx
   
 ## VII. Members
 * ###  Cullos, Kristina Crisandra M.
