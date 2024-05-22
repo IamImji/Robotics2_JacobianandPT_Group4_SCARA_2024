@@ -121,7 +121,7 @@ Path and trajectory planning are essential concepts in robotics and control syst
 ## VII. References
 * Admin. (2019, December 9). Jacobian Matrix and Determinant (Definition and Formula). BYJUS. https://byjus.com/maths/jacobian/
 
-## VIII. Video Presemtatiom
+## VIII. Video Presentatiom
 * Task 1
 * Task 2
 * Task 3
